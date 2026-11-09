@@ -1,0 +1,9 @@
+# 平文ソース（問題・解答を含む）とビルド道具は公開しない。公開するのは暗号化した HTML と README のみ。
+/src/
+/build.mjs
+node_modules/
+.build/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
